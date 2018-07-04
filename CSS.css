@@ -1,0 +1,164 @@
+@charset "UTF-8";
+    
+	/** work on making div{ positon: fixed; work**/
+body {
+	text-align: center;
+	font-family: 'Rasa', serif;
+	background-color: ;
+	
+	 }
+	
+	
+	a {
+    color: #dacc80;
+}
+	 
+	
+	
+	
+	
+	h1 {
+	color: #dacc80;	
+		
+	}
+	
+		ul {
+		 padding-top: 10px;
+		 padding-right: 10px;
+		 padding-bottom: 5px;
+		 padding-left: 10px;
+		
+		
+		
+		}
+		
+	li {
+		display:inline;
+		color: #dacc80;
+		padding: 0px 10px 0px 10px;
+		font-size: 19px;
+
+		
+	}
+	
+	a:link {
+	
+	text-decoration: none;
+    }
+	
+
+	h1 {
+		font-size:1.6em;
+		font-weight:normal;
+		color:#dacc80;
+	}
+
+	h2 {
+	font-size: 1.5em;
+	font-weight: normal;
+	color:#dacc80;
+	text-transform:uppercase;
+	
+	
+	}
+	
+	h3 {
+	font-size: 1.25em;
+	font-weight: lighter;
+	color: #000;
+	opacity: 0.5;
+	
+	text-align:center;
+	
+	/*text-decoration: underline;*/
+	font-family: Verdana, Geneva  sans-serif;
+	
+	}
+	
+		 p {
+	color:#000;
+	max-width: 530px;
+	margin: 0 auto 20px;
+	font-size: 17px;
+	
+	 
+	
+	}
+	
+	img {
+		max-width: 100%;
+		margin-bottom: 4px;
+	}
+	
+	 a:active {
+		opacity: .5;
+	}
+	
+	 
+	
+	a:hover {
+		opacity: .5;
+		
+		}
+	
+	
+	.icons{
+		font-size: 23px;
+		margin-top: 2%;
+		color: #dacc80;
+		margin-bottom: 2%;
+		
+		tex-align: center;
+	}
+		
+	footer i {
+		
+		padding-left:2%;
+		}
+	
+
+		
+	#cultura {
+		margin-top:30px;
+		max-width: 100%;
+		max-width: 100%;
+		margin-bottom: 4px;
+	}
+	
+	#vid {
+		margin-bottom: 4px;
+	}
+	
+	video {
+		max-width: 100%;
+	}
+		
+	
+	
+	/*.insta{
+		color: #dacc80;
+	}*/
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+	
+/* CSS Document */

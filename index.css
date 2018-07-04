@@ -1,0 +1,160 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Rasa');
+
+/* CSS Document */
+
+
+   body {
+	text-align:center;	
+   font-family: 'Rasa', serif;
+   color: white;
+   
+  
+    }
+	
+
+	
+	h1 {
+		font-size:22px;
+		color: #dacc80;
+		
+		
+		
+	}
+	ul {
+		
+		 padding-right: 10px;
+		 padding-bottom: 10px;
+		 padding-left: 10px;
+		
+		
+		
+		}
+	li {
+		display:inline;
+		padding: 0px 10px 0px 10px;
+		color: #dacc80;
+		list-style: none;
+		
+		
+		
+	}
+	
+	header {
+		padding: 0;
+	}
+	
+	a li:hover,
+	.footer a:hover{
+		opacity: .5;
+		
+		}
+	
+	
+		
+/*.link:hover {
+	 opacity: 0.5;
+	 margin: 0;
+	 }*/
+	 
+	 a:link {
+	
+	text-decoration: none;
+    }
+	
+/*a:active {
+		opacity: .5;
+	}*/
+	
+	 
+	/*a:hover{
+		opacity: .5;
+	}*/
+	
+	.squares {
+			
+		Border:solid;
+		border-color: #dacc80;
+		margin: -2p;
+		
+	}
+	
+
+	
+		/*.resize img {
+		height: 135px;
+		width: 135px;
+		}*/
+		
+	/*section{ 
+	max-width: 399px;
+	margin: auto;
+	}*/
+	
+	.icons{
+		font-size: 24px;
+		margin-top: 2%;
+		color: #dacc80;
+		margin-bottom: 2%;
+		
+		text-align: center;
+	}
+		
+	footer i {
+		
+		padding-left:2%;
+		}
+	
+	
+	}
+	
+	
+	
+
+@media only screen and (min-width:578px) and (max-width:800px) {
+	
+	
+		
+	section {
+		max-width:1000px;
+		margin: auto;
+	}
+	
+	/*.resize img {
+		height: 280px;
+		width: 280px;
+	}*/
+	
+	
+	
+	
+	
+	
+	
+	
+	@media only screen and (min-width:801px) {
+		
+		
+		section {
+		max-width:1000px;
+		margin: auto;
+	}
+	
+	/*.resize img {
+		height: 280px;
+		width: 280px;
+	}*/
+	
+	}
+	
+	
+
+	
+		
+	
+	
+		
+	 
+
+	
+
